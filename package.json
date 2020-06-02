@@ -1,0 +1,60 @@
+{
+  "name": "react-url-preview",
+  "version": "0.0.1",
+  "description": "A react url preview thumbnail",
+  "main": "index.tsx",
+  "private": false,
+  "scripts": {
+    "test": "jest --no-cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilsonterra/react-url-preview.git"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "url-previrew",
+    "link-preview",
+    "url-thumbnail"
+  ],
+  "author": "Gilson Terra",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/gilsonterra/react-url-preview/issues"
+  },
+  "homepage": "https://github.com/gilsonterra/react-url-preview#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-react": "^7.10.1",
+    "@babel/preset-typescript": "^7.8.3",
+    "@storybook/addon-actions": "^5.3.19",
+    "@storybook/addon-docs": "^5.3.19",
+    "@storybook/addon-info": "^5.3.19",
+    "@storybook/addon-links": "^5.3.19",
+    "@storybook/addons": "^5.3.19",
+    "@storybook/react": "^5.3.19",
+    "@types/jest": "^25.1.2",
+    "@types/node": "^14.0.9",
+    "@types/react": "^16.9.35",
+    "@typescript-eslint/eslint-plugin": "^3.1.0",
+    "@typescript-eslint/parser": "^3.1.0",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^25.1.0",
+    "babel-loader": "^8.1.0",
+    "eslint": "^7.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^25.1.0",
+    "prettier": "^2.0.5",
+    "react": "^16.13.1",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.3",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}

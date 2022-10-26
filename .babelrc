@@ -1,0 +1,13 @@
+{
+    "presets": [
+        "@babel/preset-react"
+    ],
+    "ignore": [
+        "**/__snapshots__",
+        "**/*.d.ts",
+        "**/*.test.*"
+    ],
+    "plugins": [
+        "@babel/plugin-transform-typescript",
+    ]
+}
